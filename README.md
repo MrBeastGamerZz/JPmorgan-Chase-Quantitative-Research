@@ -27,7 +27,6 @@
 - [Key Achievements (Resume-Ready)](#-key-achievements-resume-ready)
 - [How My Thinking Changed](#-how-my-thinking-changed)
 - [Industry Insights Gained](#-industry-insights-gained)
-- [Certificate](#-certificate)
 - [Connect With Me](#-connect-with-me)
 
 ---
@@ -172,26 +171,9 @@ Contract Value = (Sell Price − Buy Price) × Volume
 ```plaintext
 JPmorgan-Chase-Quantitative-Research/
 │
-├── Task1_Price_Analysis/
-│   ├── Nat_Gas.csv                  ← Raw dataset
-│   ├── task1_solution.ipynb         ← Notebook with analysis & price function
-│   └── price_function.py            ← Standalone get_price() function
+├── analysis.ipynb         ← task 1 & task 2 code file
 │
-├── Task2_Contract_Pricing/
-│   ├── task2_solution.ipynb         ← Contract valuation model
-│   └── contract_pricer.py           ← Standalone pricing function
-│
-├── Task3_Credit_Risk/
-│   ├── loan_data.csv                ← Loan dataset
-│   ├── task3_solution.ipynb         ← PD model notebook
-│   └── pd_model.py                  ← Logistic regression model
-│
-├── Task4_FICO_Bucketing/
-│   ├── task4_solution.ipynb         ← Dynamic programming solution
-│   └── fico_bucketer.py             ← Bucketing algorithm
-│
-├── certificates/
-│   └── JPMorgan_QR_Certificate.pdf  ← Official Forage certificate
+├── loan_analysis.ipynb         ← task 3 & task 4 code file
 │
 └── README.md                        ← This file
 ```
@@ -234,26 +216,17 @@ JPmorgan-Chase-Quantitative-Research/
 
 ---
 
-## 📜 Certificate
-
-Official certificate of completion issued by **The Forage in collaboration with JPMorgan Chase & Co.**
-
-📄 [`View Certificate`](certificates/JPMorgan_QR_Certificate.pdf) ← *(update with actual link or file path)*
-
-> _Verified completion of all 4 tasks in the JPMorgan Chase & Co. Quantitative Research Virtual Job Simulation._
-
----
-
 ## 🤝 Connect With Me
 
-**Manjunath**
-Bengaluru, Karnataka, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBeastGamerZz)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-> Actively seeking roles in **Quantitative Research**, **Data Science**, **Financial Engineering**, and **Risk Analytics**.
+<p>
+  <a href="https://www.linkedin.com/in/manjunathareddyn/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/MrBeastGamerZz">
+    <img src="https://img.shields.io/badge/GitHub-MrBeastGamerZz-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
 ---
 
